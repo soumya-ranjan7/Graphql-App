@@ -1,5 +1,5 @@
 ### A simple app to understand the working of GraphQL. It shows the summary of the user's Github profile. 
-![image](https://raw.githubusercontent.com/soumya-ranjan7/Graphql-App/master/image.jpg)
+![image](https://raw.githubusercontent.com/soumya-ranjan7/Graphql-App/master/image.JPG)
 
 ## Usage:
 
